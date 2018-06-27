@@ -5,7 +5,7 @@ NeuroEvolution of Augmenting Topologies [NEAT](http://nn.cs.utexas.edu/downloads
 
 You can use [Gym](https://gym.openai.com/docs/) and  evaluate the performance of this algorithm in different environments.
 
-video demo [here](https://labcomp.cl/~sborquez/)
+[:tv:](https://labcomp.cl/~sborquez/)
 
 ## Requirements
 
