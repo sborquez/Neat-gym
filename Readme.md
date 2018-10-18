@@ -5,11 +5,9 @@ NeuroEvolution of Augmenting Topologies [NEAT](http://nn.cs.utexas.edu/downloads
 
 You can use [Gym](https://gym.openai.com/docs/) and  evaluate the performance of this algorithm in different environments.
 
-[:tv:](https://labcomp.cl/~sborquez/)
+[:tv:](https://www.facebook.com/SBorkez.G/videos/10216890724647249/)
 
 ## Requirements
-
-It's easier if you use a [conda](https://www.anaconda.com/download/) for this.
 
 + [python 2.7](https://www.python.org/download/releases/2.7.2/)
 + [numpy](https://www.scipy.org/install.html)
@@ -25,3 +23,4 @@ It's easier if you use a [conda](https://www.anaconda.com/download/) for this.
 + add more plots
 + show neural network
 + add more comments!
++ add more enviroments
